@@ -17,7 +17,7 @@ public class Armstrong {
 
 		if(temp == sum)
 		{
-		    System.out.println("Armstrong Number..");
+		    System.out.println("Armstrong Number...");
 		}
 		else
 		{
